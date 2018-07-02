@@ -18,7 +18,7 @@ import org.graphstream.ui.view.Viewer;
 
 /**
  *
- * @author Nilaya
+ * @author victor-ludorum
  */
 public class OutputPage extends javax.swing.JFrame
 {
