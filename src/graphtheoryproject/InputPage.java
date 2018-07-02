@@ -20,7 +20,7 @@ import org.graphstream.ui.view.View;
 import org.graphstream.ui.view.Viewer;
 /**
  *
- * @author SURYA PRIY
+ * @author victor-ludorum
  */
 public class InputPage extends javax.swing.JFrame
 {
