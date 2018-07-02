@@ -7,7 +7,7 @@ package graphtheoryproject;
 
 /**
  *
- * @author Nilaya
+ * @author victor-ludorum
  */
 public class GraphTheoryProject
 {
